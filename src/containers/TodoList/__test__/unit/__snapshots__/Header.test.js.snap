@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`测试Header组件 测试Header组件渲染样式正常 1`] = `ShallowWrapper {}`;
